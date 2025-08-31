@@ -46,9 +46,8 @@ cd Weather-app-javascript
 
 🌟 Live Demo
 
-👉 Hosted on GitHub Pages (Add link once hosted)
-
-
+👉 Hosted on GitHub Pages 
+ https://code-solver-shubham.github.io/Weather-app-javascript/
 ---
 
 📚 Learning Outcomes
